@@ -1,0 +1,13 @@
+_* 
+*.code-workspace
+
+# ignore IDE/hidden/OS cache files
+.*
+*~
+node_modules
+npm-debug.log
+bower_components
+dist
+
+# keep some hiddens
+!/.gitignore
